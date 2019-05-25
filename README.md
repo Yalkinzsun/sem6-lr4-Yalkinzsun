@@ -2,7 +2,7 @@
 
 Сигмоидальная (логистическая) функция активации **g(z)**:
 
-<img src = "https://github.com/python-advance/sem6-lr4-Yalkinzsun/blob/master/img/sigmoid_function.png" height = "100" />
+<img src = "https://github.com/python-advance/sem6-lr4-Yalkinzsun/blob/master/img/sigmoid_function.png" height = "150" />
 
 График данной функции:
 
