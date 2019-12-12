@@ -2,29 +2,29 @@
 
 Сигмоидальная (логистическая) функция активации **g(z)**:
 
-<img src = "https://github.com/python-advance/sem6-lr4-Yalkinzsun/blob/master/img/sigmoid_function.png" height = "150" />
+<img src = "./img/sigmoid_function.png" height = "150" />
 
 График данной функции:
 
-<img src = "https://github.com/python-advance/sem6-lr4-Yalkinzsun/blob/master/img/sigmoid.png" height = "100" />
+<img src = "./img/sigmoid.png" height = "100" />
 
 ### Логическая операция *AND*
 
-<img src = "https://github.com/python-advance/sem6-lr4-Yalkinzsun/blob/master/img/and.png" height = "100" />
+<img src = "./img/and.png" height = "100" />
 
 Матрица Θ: [-30 20 20]
 
 Результат h(x) будет положительным, только если x1 и x2 будут равны 1:
 
-<img src = "https://github.com/python-advance/sem6-lr4-Yalkinzsun/blob/master/img/and2.png" height = "150" />
+<img src = "./img/and2.png" height = "150" />
 
 ### Логическая операция *XNOR*
 
 Необходимо выразить данную логическую операцию через AND, OR и NOT, добавить скрытый слой в перцептрон:
 
-<img src = "https://github.com/python-advance/sem6-lr4-Yalkinzsun/blob/master/img/xnor_0.png" height = "100" />
+<img src = "./img/xnor_0.png" height = "100" />
 
-<img src = "https://github.com/python-advance/sem6-lr4-Yalkinzsun/blob/master/img/xnor.png" height = "300" />
+<img src = "./img/xnor.png" height = "300" />
 
 
 ## Тестирование
@@ -55,7 +55,7 @@ def test_xnor(description, theta_or, theta_and, theta_not):
 
 #### Результат тестирования:
 
-<img src = "https://github.com/python-advance/sem6-lr4-Yalkinzsun/blob/master/img/tests.png" height = "300" />
+<img src = "./img/tests.png" height = "300" />
 
 #### Результат выполнения программы:
 
